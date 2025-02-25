@@ -6,7 +6,7 @@
   Let's Connect and Inspire Each Other~~
 </h1>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pandaqq/pandaqq/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
