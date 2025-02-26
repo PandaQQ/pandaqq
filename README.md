@@ -4,8 +4,8 @@
 - **DevOps & Automation** – Streamlining workflows and deployments  
 - **EEG & AI** – Exploring neuroscience technology in education
 
-# 📕 Some Blogs here:
-- [PandaQQ's 开发笔记](https://pandaqq.github.io/mynotes)
+## 📕 Some Blogs here:
+- [PandaQQ's Develop Note](https://pandaqq.github.io/mynotes)
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
 <h3 id="bar_chart-github-stats">:bar_chart: GitHub stats</h3>
